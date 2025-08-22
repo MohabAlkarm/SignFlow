@@ -1,11 +1,10 @@
 #### Activate virtual evironment
 ```
-on windows: .venv/Scripts/activate
 make sure virtual environment is activated, you will see (.venv) in commandline. restart commandline if neccesary.
+on windows: .venv/Scripts/activate
 ```
 #### Install requirements
 ```
-cd signflow
 pip install -r requirements.txt
 ```
 
